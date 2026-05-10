@@ -1,3 +1,4 @@
+<img width="1240" height="852" alt="image" src="https://github.com/user-attachments/assets/6f096634-fc27-4828-9f50-b1bfcb9f59bd" />
 # EXiF-renamer
 
 照片 EXIF 重命名工具 - 基于 Tauri + Rust 实现
